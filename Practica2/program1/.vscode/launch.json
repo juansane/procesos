@@ -9,8 +9,7 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "program1_fe0f6298",
-            "args": "E:\\DAM2\\Procesos\\Practica_2\\Workspace\\program1\\text.txt hola"
+            "projectName": "program1_fe0f6298"
         },
         {
             "type": "java",
@@ -23,8 +22,7 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "program1_e46af7d9",
-            "args": "E:\\DAM2\\Procesos\\Practica_2\\Workspace\\program1\\text.txt hola"
+            "projectName": "program1_e46af7d9"
         }
     ]
 }
