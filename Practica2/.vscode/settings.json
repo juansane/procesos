@@ -1,0 +1,6 @@
+{
+    "java.project.outputPath": "program2\\bin",
+    "java.project.sourcePaths": [
+        "program1/src"
+    ]
+}
